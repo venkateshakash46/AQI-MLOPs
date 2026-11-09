@@ -219,8 +219,9 @@ The complete workflow implemented in this project is:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/venkateshakash46/AQI-MLOPs>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone https://github.com/venkateshakash46/AQI-MLOPs.git
+cd AQI-MLOPs
+cd "project 1"
 ```
 
 ### Step 2: Set Up the Environment
