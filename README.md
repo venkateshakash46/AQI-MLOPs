@@ -338,7 +338,5 @@ The project helped me understand that successful machine learning systems requir
 
 Exploring the lifecycle, deployment, evaluation, and monitoring of Large Language Models.
 
-### Author
 
-M.Sc. Data Science | Machine Learning | MLOps | LLMOps
 
